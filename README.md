@@ -31,8 +31,9 @@
 
 * **프로젝트명:** Udemy Unreal Game Study Course
 * **유형:** Unreal Engine 게임 제작 용 C++ & 멀티플레이어 통합 학습 프로젝트
-* **개발 인원:** 1인 개발  
-* **개발 목적:** C++ 기반의 엔진 커스터마이징 및 네트워크 환경에서의 게임 제작 능력 함양 
+* **개발 인원:** 1인 개발
+* **학습 기간:** 2024.06.25.-2025.08.03.(CPP), 2025.06.03.-2025.06.26.(Horror), 2025.9.01.-2025.09.27.(Multi)
+* **학습 목적:** C++ 기반의 엔진 커스터마이징 및 네트워크 환경에서의 게임 제작 능력 함양 
 * **주요 특징:**  
     * C++ Core: Blueprints와 C++의 효율적인 협업 구조(Base Class 제작)
     * Horror Framework: 복잡한 상호작용 및 UI/인벤토리 시스템 구축
@@ -42,17 +43,26 @@
 
 > *아래 링크를 클릭하면 유튜브에서 고화질로 시청할 수 있습니다. (YouTube)*
 
-### Udemy 실습 영상
+### C++ Section 2 WareHouse 실습 영상
 
-[YouTube : Udemy 실습 영상](https://youtu.be/xsyFOx90I90?si=NQGeRHLeelcNYJ8m)
+[YouTube : Warehouse 실습 영상](https://youtu.be/LPfsoqLB9Kc))
+
+https://github.com/user-attachments/assets/2475d01f-8028-4c3b-9fc7-7d86b4b3b319
+
+### C++ Section 2 WareHouse 실습 영상
+
+[YouTube : Warehouse 실습 영상](https://youtu.be/LPfsoqLB9Kc))
+
+https://github.com/user-attachments/assets/2475d01f-8028-4c3b-9fc7-7d86b4b3b319
+
+### Horror UI 및 연출 실습 영상
+
+[YouTube : Horror 실습 영상](https://youtu.be/xsyFOx90I90?si=NQGeRHLeelcNYJ8m)
+
+https://github.com/user-attachments/assets/c7a09e88-43a0-42b4-8a9f-b24fec9f37d7
 
 
-
-### 복습 Nier 영상
-  
-[YouTube : Nier](https://youtu.be/FxfLJo7ZLfc?si=RFETOVWBMa0q3dNW)
-
-
+* Multi 실습은 자체 프로젝트 Noob 제작으로 대체 [깃헙 저장소 링크](https://github.com/KINGWONWOO/-Game_Develop-Noob)
 
 ---
 
