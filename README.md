@@ -1,183 +1,132 @@
-# Unreal Multiplayer Course - Section 3 - Steam Multiplayer
+🎇 Unreal Engine Game Development Study Project (3-in-1)
 
-In follow up to our hugely successful [Complete Unreal Engine Developer](http://gdev.tv/urcgithub) course we bring you [Unreal Multiplayer Mastery](http://gdev.tv/uemgithub) - as on featured on [Epic's UE4 blog](https://www.unrealengine.com/en-US/blog/getting-started-with-unreal-multiplayer-in-cpp).
+<img src="Doc/Images/Udemy_GameStudy.png" width="800" height="450" style="object-fit: cover;" alt="Main Banner">
 
-In this section we teach you to connect your games P2P over steam. This game introduces Unreal's Online Sub-System (OSS) and shows you how to use it with the Steamworks API. By the end of the section, you will be able to connect player through Steam lobbies.
+> "C++ 기초부터 멀티플레이어 시스템, 호러 게임 메커니즘까지."
+> 이 프로젝트는 Udemy의 핵심 Unreal Engine 강의 3종을 학습하며 실습한 내용을 통합 관리하는 레포지토리입니다. 엔진의 심층적인 이해와 실무적인 게임 루프 구현 능력을 기르는 데 중점을 두었습니다. 교육 수료증은 아래의 탭에서 확인 가능합니다.
 
-You're welcome to download, fork or do whatever else legal with all the files! The real value is in our huge, high-quality online tutorials that accompany this repo. You can check out the course here: [Unreal Multiplayer Mastery](http://gdev.tv/uemgithub)
+<details>
+<summary><b>[강의 1] Unreal Engine 5 C++ 개발자: C++ 학습하고 비디오 게임 제작하기</b></summary>
+
+<img src="Doc/Images/Udemy_Cpp.jpg" width="600" alt="C++ Developer Certificate">
+
+</details>
+
+<details>
+<summary><b>[강의 2] Unreal Engine: Ultimate Survival Horror Course</b></summary>
+
+<img src="Doc/Images/Udemy_Horror.jpg" width="600" alt="Survival Horror Certificate">
+
+</details>
+
+<details>
+<summary><b>[강의 3] 언리얼 C++ 멀티플레이어 마스터 : 중급 게임 개발</b></summary>
+
+<img src="Doc/Images/Udemy_Multi.jpg" width="600" alt="Multiplayer Master Certificate">
+
+</details>
+
+## 📋 1. 프로젝트 개요 (Overview)
+
+* **프로젝트명:** Udemy Unreal Game Study Course
+* **유형:** Unreal Engine 게임 제작 용 C++ & 멀티플레이어 통합 학습 프로젝트
+* **개발 인원:** 1인 개발  
+* **개발 목적:** C++ 기반의 엔진 커스터마이징 및 네트워크 환경에서의 게임 제작 능력 함양 
+* **주요 특징:**  
+    * C++ Core: Blueprints와 C++의 효율적인 협업 구조(Base Class 제작)
+    * Horror Framework: 복잡한 상호작용 및 UI/인벤토리 시스템 구축
+    * Networking: Steam 기반 세션 인터페이스 및 대역폭 최적화 학습
+ 
+## 🎥 2. 실습 영상 (Practice Video)
+
+> *아래 링크를 클릭하면 유튜브에서 고화질로 시청할 수 있습니다. (YouTube)*
+
+### Udemy 실습 영상
+
+[YouTube : Udemy 실습 영상](https://youtu.be/xsyFOx90I90?si=NQGeRHLeelcNYJ8m)
 
 
-### 0 Introduction to Steam Multiplayer ###
 
-+ We overview the section topic.
+### 복습 Nier 영상
+  
+[YouTube : Nier](https://youtu.be/FxfLJo7ZLfc?si=RFETOVWBMa0q3dNW)
 
-### 1 Getting The Steamworks SDK ###
 
-+ Introducing Steamworks.
-+ Downloading the Steamworks SDK.
-+ Steamworks and the Online Sub-System.
 
-### 2 Building SpaceWar In Visual Studio ###
+---
 
-+ Introducing the Steamworks example project.
-+ Updating the project.
-+ Downloading & installing DirectX SDK.
-+ Fixing the build errors.
+## 🛠️ 3. 사용 기술 (Tech Stack)
 
-### 3 Building SpaceWar In Xcode ###
+### Engine & Language
+*   **Unreal Engine 5.4**: Core Engine (최신 기능 활용)
+*   **C++**: 게임 로직 및 커스텀 컴포넌트 개발
+*   **Blueprints**: UI 바인딩 및 프로토타이핑, Actor 생성
 
-+ Introducing the Steamworks example project.
-+ Applying recommended settings.
-+ Running with Steam.
+### Framework & Library
+*   **Steam Online Subsystem**: 멀티플레이어 세션 연결
+*   **Enhanced Input System**: 복잡한 입력 매핑 처리
+*   **AI Behavior Tree**: 호러 게임용 적 AI 구현
 
-### 4 Testing Steam Lobbies ###
+---
 
-+ Finding a testing partner.
-+ Testing servers.
-+ Testing lobbies.
+## 💡 4. 주요 학습 내용 (Features)
 
-### 5 The Online Sub-System ###
+- [C++ 학습 노트 보기](https://github.com/KINGWONWOO/obsidian/blob/44cfd75bafca5f5c7cf6059c8cfce293bb441a6d/%EC%96%B8%EB%A6%AC%EC%96%BC%20%EA%B3%B5%EB%B6%80/Unreal/%EC%9D%BC%EC%9D%BC%20%EA%B3%B5%EB%B6%80/1-UE5%20C%20%20(24.06.25.~24.08.03.)/merged%20copy.md)
 
-+ Importing PuzzlePlatforms.
-+ Capabilities of Online Sub-Systems.
-+ Including the OSS module.
-+ Getting a pointer to the sub-system.
+- [Multi 학습 노트 보기](https://github.com/KINGWONWOO/obsidian/blob/44cfd75bafca5f5c7cf6059c8cfce293bb441a6d/%EC%96%B8%EB%A6%AC%EC%96%BC%20%EA%B3%B5%EB%B6%80/Unreal/%EC%9D%BC%EC%9D%BC%20%EA%B3%B5%EB%B6%80/5-UE5%20Multi%20copy.md)
 
-### 6 NULL Sub-System For Testing ###
+- Horror 게임의 경우 C++의 내용과 크게 비슷한 내용이 많아 이후 Noob! Game 실습에 바로 적용하여 정리 내용이 없습니다.
 
-+ Role of the NULL sub-system.
-+ Configuring the NULL service.
-+ Printing the current service name.
+---
 
-### 7 Memory Management In C++ ###
+## 🚀 5. 트러블 슈팅 (Troubleshooting)
 
-+ Stack vs Heap.
-+ Manual memory management.
-+ Reference counting with `TSharedPtr`.
-+ Garbage Collection of UObjects.
+### 이슈 1: 멀티플레이어 환경에서 Steam 연동 및 테스트 불가
+* 문제: Steam Online Subsystem 설정 후에도 개발 환경에서 세션 검색 및 로그인이 정상적으로 작동하지 않음.
+* 해결: SteamAppId 확인 및 Steam Sandbox(AppID 480) 설정을 통해 개발용 샌드박스 환경에서 테스트를 진행하여 해결.
 
-### 8 Creating Online Sessions ###
+### 이슈 2: 작동하던 C++ 프로젝트의 갑작스러운 컴파일 오류
+* 문제: 코드 변경이 없었음에도 불구하고 엔진 업데이트나 환경 변화로 인해 프로젝트가 열리지 않거나 컴파일 에러 발생.
+* 해결:
+     - 프로젝트 폴더 내 Binaries, Intermediate, Saved 폴더를 삭제한 후, .uproject 우클릭 - Generate Visual Studio project files를 통해 프로젝트 파일을 재생성하여 종속성 꼬임 문제를 해결
+     - 종속성 확인 및 SDK 재설치
+     - 코드 재 검사
+     - .uproject 메모장 편집 후 오타 확인
+     - content 파일 중 한글로 된 파일/경로 확인
 
-+ Creating a session.
-+ Asynchronous operations and delegates.
-+ Creating a session on host.
+### 이슈 3: AI 캐릭터의 회전 및 이동의 부자연스러움
+* 문제: AI가 방향을 전환할 때 순간적으로 끊기거나 부자연스럽게 회전하는 현상.
+* 해결: CharacterMovementComponent 내의 Use Controller Desired Rotation 및 Orient Rotation to Movement 옵션을 조정하고, Rotation Rate 값을 세밀하게 설정하여 매끄러운 회전 보간 구현.
 
-### 9 Destroying Online Sessions ###
+### 이슈 4: 엔진 버전 업데이트에 따른 입력 시스템 호환성 문제 (UE 5.1+)
+* 문제: 기존 Legacy Input 방식이 최신 버전에서 제대로 작동하지 않거나 경고 발생.
+* 해결: 최신 표준인 Enhanced Input System으로 마이그레이션. Input Action과 Input Mapping Context를 정의하여 유연한 입력 처리 구조로 개선.
 
-+ Asynchronous destruction.
-+ Checking if a session exists.
-+ Destroy the session if we need to.
+### 이슈 5: Line Trace(Ray Tracing) 기반 물체 상호작용 시 불안정성
+* 문제: 물체를 잡고 이동할 때 물체가 심하게 떨리거나 위치가 고정되지 않는 현상.
+* 해결: 물체를 잡는 지점(Physics Handle)의 위치 계산 방식을 Tick에서 보간 처리하고, 잡힌 물체의 Collision Response를 조정하여 캐릭터와의 물리 충돌 간섭을 제거함으로써 안정화.
 
-### 10 Finding Online Sessions ###
+### 이슈 6: VS Code Include 인식 불가 및 라이브 코딩 오류 (2024.06.27)
+* 문제: 프로젝트 내 모든 #include 경로를 찾지 못하는 에러 발생 및 라이브 코딩 기능 마비.
+* 해결: .uproject 파일 우클릭 후 Generate Visual Studio project files를 실행하여 프로젝트 파일을 갱신하고, 에디터 내에서 Refresh Visual Studio Code Project를 통해 경로 재설정.
 
-+ `FindSessions` and `TShareRef`.
-+ Handling `OnFindSessionsCompleteDelegates`.
+### 이슈 7: 에디터 내 VS Code 실행 불가 (Unable to open solution) (2024.06.27)
+* 문제: 언리얼 에디터에서 소스 코드 열기 시 솔루션을 열 수 없다는 오류 발생.
+* 해결: 프로젝트 및 에디터 실행 시 관리자 권한을 부여하여 파일 접근 권한 문제 해결.
 
-### 11 Query Parameters & Session Settings ###
+### 이슈 8: Line Trace(Ray Tracing) 기반 물체 상호작용 시 불안정성
+* 문제: 물체 잡고 이동할 때 물리 연산 충돌로 인한 떨림 발생.
+* 해결: Physics Handle의 위치 계산 보간 처리 및 캐릭터-물체 간 Collision Response 조정을 통해 안정화.
 
-+ Configuring Session Settings.
-+ Adding query parameters.
-+ Iterating over a `TArray`
+### 이슈 9: C++ 모듈 종속성 오류 (BTTask 및 UMG 관련) (2024.08.02)
+* 문제: BTTask 생성 시 오류 혹은 UserWidget.h 인클루드 시 정의되지 않은 기호 에러 발생.
+* 해결: ProjectName.Build.cs 파일의 PublicDependencyModuleNames 설정에 필요한 모듈인 "GameplayTasks" 및 **"UMG"**를 수동으로 추가하여 의존성 해결.
+---
 
-### 12 Lists Of Widgets With ScrollBox ###
+## 📚 6. 공부 확장 방향(Future Study Plan)
 
-+ Introduction to the `ScrollBox`.
-+ Creating a row widget.
-+ Add rows in C++.
+* 실제 게임 제작해보기.(Noob에 적용)
+* 이벤트(Event Handler) 기반 파티클 시스템 구조 이해  
+* Dedicated Server 및 Listen Server 배포 및 관리 학습  
+* 더욱 복잡한 AI Behavior Tree 및 환경 쿼리 시스템(EQS) 심화 학습, 다양한 상호작용 추가 
 
-### 13 Populating The Server List ###
-
-+ Expose the text property.
-+ Setting a server list from GameInstance.
-+ Clearing the previous list.
-+ Requesting a refresh.
-
-### 14 Selecting A Server ###
-
-+ Using `TOptional` values.
-+ Setup the `UServerRow`.
-+ Adding a `UButton`.
-+ Set the selected index.
-
-### 15 Joining A Session ###
-
-+ Passing the index to `GameInstance`.
-+ How to `JoinSession`.
-+ Handling `OnJoinSessionComplete`.
-+ Getting the platform connect string.
-
-### 16 Enabling The Steam OSS ###
-
-+ Enabling the steam plugin.
-+ Compiling with the steam module.
-+ Configuring the `DefaultEngine.ini`.
-+ Reading the verbose logs.
-
-### 17 "Presence" For Steam Lobbies ###
-
-+ Enabling presence for the server.
-+ Enabling presence for search.
-+ Debugging our connection.
-
-### 18 Row Selection In Lists ###
-
-+ Update text colour on hover.
-+ Update all rows when `Selected`.
-+ Select colors for `Hovered` and `Selected`.
-
-### 19 Displaying Search Result Properties ###
-
-+ Disabling Steam for testing.
-+ Creating a struct.
-+ Populating the struct.
-+ Updating the UI. 
-
-### 20 Debugging The Search Results ###
-
-+ Disabling Steam fully.
-+ Getting the available connections.
-+ Padding the text properly.
-
-### 21 Custom Session Settings ###
-
-+ How to set custom settings.
-+ How to retrieve custom settings.
-+ Setting the server name.
-
-### 22 Continued: Custom Session Settings ###
-
-+ We finish the challenge solution.
-+ We make our menu pretty again.
-
-### 23 GameMode And Multiplayer ###
-
-+ Joining into the lobby.
-+ Creating a GameMode override.
-+ Handling `PostLogin`.
-+ Handle `Logout` and count players.
-
-### 24 Enabling Seamless Travel ###
-
-+ Ensuring we call `Super`.
-+ Traveling to the game.
-+ What is non-seamless travel?
-+ Enabling seamless travel.
-+ The transition map.
-
-### 25 Debugging Engine Code ###
-
-+ Installing editor symbols.
-+ Finding the NULL subsystem code.
-+ What code should be called?
-+ Attaching and debugging.
-+ Fixing the NULL subsystem bug.
-
-### 26 Starting A Session ###
-
-+ Update maximum number of players.
-+ Adding a session start timeout.
-+ Starting the session.
-
-### 99 Steam Multiplayer Wrap-up
-
-+ We review the topics covered this section.
