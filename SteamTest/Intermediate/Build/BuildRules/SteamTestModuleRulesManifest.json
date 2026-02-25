@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\qudtn\\UnrealEngine\\SteamTest\\Source\\SteamTest\\SteamTest.Build.cs",
+		"C:\\Users\\qudtn\\UnrealEngine\\SteamTest\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"C:\\Users\\qudtn\\UnrealEngine\\SteamTest\\Plugins\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+		"C:\\Users\\qudtn\\UnrealEngine\\SteamTest\\Source\\SteamTest.Target.cs",
+		"C:\\Users\\qudtn\\UnrealEngine\\SteamTest\\Source\\SteamTestEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

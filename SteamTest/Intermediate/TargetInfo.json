@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SteamTest",
+			"Path": "..\\Source\\SteamTest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SteamTestEditor",
+			"Path": "..\\Source\\SteamTestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
