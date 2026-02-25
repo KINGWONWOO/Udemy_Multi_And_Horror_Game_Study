@@ -1,4 +1,4 @@
-🎇 Unreal Engine Game Development Study Project (3-in-1)
+# 🎇 Unreal Engine Game Development Study Project (3-in-1)
 
 <img src="Doc/Images/Udemy_GameStudy.png" width="800" height="450" style="object-fit: cover;" alt="Main Banner">
 
