@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CryptRaider.gen.cpp.obj": [
+			"CryptRaider.init.gen.cpp.obj",
+			"CryptRaiderCharacter.gen.cpp.obj",
+			"CryptRaiderGameMode.gen.cpp.obj",
+			"CryptRaiderProjectile.gen.cpp.obj",
+			"Grabber.gen.cpp.obj",
+			"Mover.gen.cpp.obj",
+			"TP_WeaponComponent.gen.cpp.obj",
+			"TriggerComponent.gen.cpp.obj"
+		]
+	}
+}

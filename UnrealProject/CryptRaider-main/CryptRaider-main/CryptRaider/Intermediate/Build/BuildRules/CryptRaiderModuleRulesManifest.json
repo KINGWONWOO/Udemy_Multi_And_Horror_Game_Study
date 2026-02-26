@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Downloads\\CryptRaider-main\\CryptRaider-main\\CryptRaider\\Source\\CryptRaider\\CryptRaider.Build.cs",
+		"E:\\Downloads\\CryptRaider-main\\CryptRaider-main\\CryptRaider\\Source\\CryptRaider.Target.cs",
+		"E:\\Downloads\\CryptRaider-main\\CryptRaider-main\\CryptRaider\\Source\\CryptRaiderEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
