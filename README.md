@@ -51,25 +51,39 @@
 https://github.com/user-attachments/assets/2475d01f-8028-4c3b-9fc7-7d86b4b3b319
 
 ### C++ Section 3 Obstacle 실습 영상
-3인칭 장애물 돌파 게임 실습 영상입니다.
+3인칭 장애물 돌파 게임 실습 영상입니다. 설명을 하며 진행하기에 소리를 키고 봐주시길 바랍니다.
 
-[YouTube : Obstacle 실습 영상](https://youtu.be/1q0Fa9zrYCw?si=Qh1h7SfYlTPS8qEb)
+[YouTube : Obstacle 실습 영상](https://youtu.be/Usdc-P2_PHA?si=dBPSF4eSCEG8P5lo)
 
+
+https://github.com/user-attachments/assets/49b3512c-5103-43db-9916-3634761cbe39
 
 ### C++ Section 4 ToonTank 실습 영상
-탑다운 뷰의 탱크 전투 게임 실습 영상입니다.
+탑다운 뷰의 탱크 전투 게임 실습 영상입니다. 설명을 하며 진행하기에 소리를 키고 봐주시길 바랍니다.
 
-[YouTube : Obstacle 실습 영상](https://youtu.be/1q0Fa9zrYCw?si=Qh1h7SfYlTPS8qEb)
+[YouTube : ToonTank 실습 영상](https://youtu.be/1q0Fa9zrYCw?si=Qh1h7SfYlTPS8qEb)
 
 https://github.com/user-attachments/assets/ceebf4c1-1799-47aa-9f1b-714b587cef49
 
-### C++ Section 3 ToonTank 실습 영상
+### C++ Section 5 CryptRaider 실습 영상
+
+퍼즐 기반 탈출 및 탐험 게임 실습 영상입니다. 설명을 하며 진행하기에 소리를 키고 봐주시길 바랍니다.
+
+https://github.com/user-attachments/assets/3656e041-e04e-40a8-af5b-c49da52e52e5
+
+[YouTube : CryptRaider 실습 영상](https://youtu.be/u2zNpthrfbw?si=EUQL_40sGRLucJLE)
+
+### C++ Section 5 SimpleShooter 실습 영상
+탑다운 뷰의 탱크 전투 게임 실습 영상입니다. 설명을 하며 진행하기에 소리를 키고 봐주시길 바랍니다.
+
+
+### Horror Game 실습 영상
 
 [YouTube : Horror 실습 영상](https://youtu.be/GmJgNhv26uA?si=kl6wvr5Rjm2Ot_et)
 
 https://github.com/user-attachments/assets/ab9596fd-18fc-44fd-b8ec-ef06ab8c785c
 
-
+### Multi Steam SDK 실습 영상
 * Multi 실습은 자체 프로젝트 Noob 제작으로 대체 [깃헙 저장소 링크](https://github.com/KINGWONWOO/-Game_Develop-Noob)
 
 ---
