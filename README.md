@@ -44,22 +44,21 @@
 > *아래 링크를 클릭하면 유튜브에서 고화질로 시청할 수 있습니다. (YouTube)*
 
 ### C++ Section 2 WareHouse 실습 영상
-1인칭 물건 부수기 게임 실습 영상입니다. 해당 영상에는 따로 설명이 없습니다.
+1인칭 시점에서 오브젝트에 물리적인 힘을 가해 파괴하는 메커니즘을 학습했습니다. Static Mesh Component의 물리 설정과 충돌 판정을 제어하여, 플레이어의 액션에 따라 환경이 실시간으로 반응하는 물리 기반 상호작용 원리를 습득했습니다.
 
 [YouTube : Warehouse 실습 영상](https://youtu.be/LPfsoqLB9Kc)
 
 https://github.com/user-attachments/assets/2475d01f-8028-4c3b-9fc7-7d86b4b3b319
 
 ### C++ Section 3 Obstacle 실습 영상
-3인칭 장애물 돌파 게임 실습 영상입니다. 설명을 하며 진행하기에 소리를 키고 봐주시길 바랍니다.
+3인칭 캐릭터의 이동 로직과 동적인 장애물 기믹을 구현하며 Character Movement Component의 활용법을 익혔습니다. 특정 구역을 왕복하거나 회전하는 장애물의 움직임을 C++과 블루프린트로 구현하며 액터의 트랜스폼 제어 및 충돌 처리를 학습했습니다.
 
 [YouTube : Obstacle 실습 영상](https://youtu.be/Usdc-P2_PHA?si=dBPSF4eSCEG8P5lo)
-
 
 https://github.com/user-attachments/assets/49b3512c-5103-43db-9916-3634761cbe39
 
 ### C++ Section 4 ToonTank 실습 영상
-탑다운 뷰의 탱크 전투 게임 실습 영상입니다. 설명을 하며 진행하기에 소리를 키고 봐주시길 바랍니다.
+쿼터뷰 시점에서의 독립적인 포탑 회전 및 이동 로직을 구현하며 Pawn 클래스의 구조를 이해했습니다. 탄환의 생성, 발사 궤적 계산, 그리고 피격 판정을 위한 Projectile 시스템과 파티클 및 Pawn Health System을 활용한 기법을 습득했습니다. 설명을 하며 진행하기에 소리를 키고 봐주시길 바랍니다.
 
 [YouTube : ToonTank 실습 영상](https://youtu.be/GmJgNhv26uA?si=cjNENOne27ilIsRn)
 
@@ -67,21 +66,21 @@ https://github.com/user-attachments/assets/0d00ad6e-b182-465c-9d83-292265cac87e
 
 ### C++ Section 5 CryptRaider 실습 영상
 
-퍼즐 기반 탈출 및 탐험 게임 실습 영상입니다. 설명을 하며 진행하기에 소리를 키고 봐주시길 바랍니다.
+Line Tracing을 활용한 정밀한 물체 탐지 및 집기(Physics Handle) 기능을 구현했습니다. Trigger Volume 내의 특정 조건을 검사하여 숨겨진 문이 열리거나 트랩이 작동하는 등의 레벨 시퀀스 제어와 컴포넌트 기반 설계 방식을 학습했습니다. 설명을 하며 진행하기에 소리를 키고 봐주시길 바랍니다.
 
 [YouTube : CryptRaider 실습 영상](https://youtu.be/u2zNpthrfbw?si=EUQL_40sGRLucJLE)
 
 https://github.com/user-attachments/assets/3656e041-e04e-40a8-af5b-c49da52e52e5
 
 ### C++ Section 5 SimpleShooter 실습 영상
-삼인칭 슈팅(TPS) 게임 실습 영상입니다. 설명을 하며 진행하기에 소리를 키고 봐주시길 바랍니다.
+언리얼 엔진의 AI Controller, Blackboard, Behavior Tree를 활용하여 지능형 적 유닛을 구축했습니다. 시야(Line of Sight)에 따른 추격 및 사격 로직을 설계하고, 플레이어와 AI의 승리/패배 조건을 관리하는 전반적인 GameMode 흐름 제어를 학습했습니다. 설명을 하며 진행하기에 소리를 키고 봐주시길 바랍니다.
 
 [Youtube : SimpleShooter 실습 영상](https://youtu.be/6joo82zi7eE?si=t2bwBN6Y0YAHe9aa)
 
 https://github.com/user-attachments/assets/840433b4-41bb-438c-8170-186f2a526104
 
 ### Horror Game 실습 영상
-Horror Engine 실습하며 만들어본 UI 및 Intro 영상입니다. 해당 영상에는 따로 설명이 없습니다.
+1인칭 물리 기반 파괴 메커니즘 실습 영상입니다. 컴포넌트 간의 물리 상호작용을 통한 오브젝트 파괴 연출을 중점적으로 시연하며, 오디오 설명 없이 시각적 동작 위주로 구성되었습니다.
 
 [YouTube : Horror 실습 영상](https://youtu.be/CKY97WPt4tU?si=SeYKoXfTki7w_H0W)
 
