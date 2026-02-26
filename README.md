@@ -78,14 +78,19 @@ https://github.com/user-attachments/assets/3656e041-e04e-40a8-af5b-c49da52e52e5
 [YouTube : CryptRaider 실습 영상](https://youtu.be/u2zNpthrfbw?si=EUQL_40sGRLucJLE)
 
 ### C++ Section 5 SimpleShooter 실습 영상
-탑다운 뷰의 탱크 전투 게임 실습 영상입니다. 설명을 하며 진행하기에 소리를 키고 봐주시길 바랍니다.
+삼인칭 슈팅(TPS) 게임 실습 영상입니다. 설명을 하며 진행하기에 소리를 키고 봐주시길 바랍니다.
 
+[Youtube : SimpleShooter 실습 영상](https://youtu.be/6joo82zi7eE?si=t2bwBN6Y0YAHe9aa)
+
+https://github.com/user-attachments/assets/840433b4-41bb-438c-8170-186f2a526104
 
 ### Horror Game 실습 영상
+Horror Engine 실습하며 만들어본 UI 및 Intro 영상입니다. 해당 영상에는 따로 설명이 없습니다.
 
-[YouTube : Horror 실습 영상](https://youtu.be/GmJgNhv26uA?si=kl6wvr5Rjm2Ot_et)
+[YouTube : Horror 실습 영상](https://youtu.be/CKY97WPt4tU?si=SeYKoXfTki7w_H0W)
 
-https://github.com/user-attachments/assets/ab9596fd-18fc-44fd-b8ec-ef06ab8c785c
+https://github.com/user-attachments/assets/2595674d-861d-49fd-adac-ff1fc3d187f2
+
 
 ### Multi Steam SDK 실습 영상
 * Multi 실습은 자체 프로젝트 Noob 제작으로 대체 [깃헙 저장소 링크](https://github.com/KINGWONWOO/-Game_Develop-Noob)
