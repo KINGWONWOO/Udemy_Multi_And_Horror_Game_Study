@@ -69,9 +69,9 @@ https://github.com/user-attachments/assets/0d00ad6e-b182-465c-9d83-292265cac87e
 
 퍼즐 기반 탈출 및 탐험 게임 실습 영상입니다. 설명을 하며 진행하기에 소리를 키고 봐주시길 바랍니다.
 
-https://github.com/user-attachments/assets/3656e041-e04e-40a8-af5b-c49da52e52e5
-
 [YouTube : CryptRaider 실습 영상](https://youtu.be/u2zNpthrfbw?si=EUQL_40sGRLucJLE)
+
+https://github.com/user-attachments/assets/3656e041-e04e-40a8-af5b-c49da52e52e5
 
 ### C++ Section 5 SimpleShooter 실습 영상
 삼인칭 슈팅(TPS) 게임 실습 영상입니다. 설명을 하며 진행하기에 소리를 키고 봐주시길 바랍니다.
