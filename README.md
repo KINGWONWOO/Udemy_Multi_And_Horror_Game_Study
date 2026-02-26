@@ -61,13 +61,9 @@ https://github.com/user-attachments/assets/49b3512c-5103-43db-9916-3634761cbe39
 ### C++ Section 4 ToonTank 실습 영상
 탑다운 뷰의 탱크 전투 게임 실습 영상입니다. 설명을 하며 진행하기에 소리를 키고 봐주시길 바랍니다.
 
-[YouTube : ToonTank 실습 영상](https://youtu.be/1q0Fa9zrYCw?si=Qh1h7SfYlTPS8qEb)
-
-
+[YouTube : ToonTank 실습 영상](https://youtu.be/GmJgNhv26uA?si=cjNENOne27ilIsRn)
 
 https://github.com/user-attachments/assets/0d00ad6e-b182-465c-9d83-292265cac87e
-
-
 
 ### C++ Section 5 CryptRaider 실습 영상
 
