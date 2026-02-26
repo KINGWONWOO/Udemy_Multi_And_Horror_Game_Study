@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Downloads\\ObstacleAssault-master\\ObstacleAssault-master\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.Build.cs",
+		"E:\\Downloads\\ObstacleAssault-master\\ObstacleAssault-master\\ObstacleAssault\\Source\\ObstacleAssault.Target.cs",
+		"E:\\Downloads\\ObstacleAssault-master\\ObstacleAssault-master\\ObstacleAssault\\Source\\ObstacleAssaultEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
