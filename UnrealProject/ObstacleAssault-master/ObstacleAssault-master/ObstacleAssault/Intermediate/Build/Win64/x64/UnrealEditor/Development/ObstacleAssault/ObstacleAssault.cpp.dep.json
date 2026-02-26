@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\downloads\\obstacleassault-master\\obstacleassault-master\\obstacleassault\\source\\obstacleassault\\obstacleassault.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\downloads\\obstacleassault-master\\obstacleassault-master\\obstacleassault\\intermediate\\build\\win64\\x64\\obstacleassaulteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\downloads\\obstacleassault-master\\obstacleassault-master\\obstacleassault\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\obstacleassault\\definitions.obstacleassault.h",
+            "e:\\downloads\\obstacleassault-master\\obstacleassault-master\\obstacleassault\\source\\obstacleassault\\obstacleassault.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

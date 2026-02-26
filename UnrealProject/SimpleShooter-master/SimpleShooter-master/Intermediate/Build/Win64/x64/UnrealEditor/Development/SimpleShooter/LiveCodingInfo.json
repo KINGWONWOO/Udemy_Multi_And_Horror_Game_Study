@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SimpleShooter.gen.cpp.obj": [
+			"BTService_PlayerLocation.gen.cpp.obj",
+			"BTService_PlayerLocationIfSeen.gen.cpp.obj",
+			"BTTask_ClearBlackboardValue.gen.cpp.obj",
+			"BTTask_Shoot.gen.cpp.obj",
+			"Gun.gen.cpp.obj",
+			"KillEmAllGameMode.gen.cpp.obj",
+			"MyPawn.gen.cpp.obj",
+			"ShooterAIController.gen.cpp.obj",
+			"ShooterCharacter.gen.cpp.obj",
+			"ShooterPlayerController.gen.cpp.obj",
+			"SimpleShooter.init.gen.cpp.obj",
+			"SimpleShooterGameModeBase.gen.cpp.obj"
+		]
+	}
+}

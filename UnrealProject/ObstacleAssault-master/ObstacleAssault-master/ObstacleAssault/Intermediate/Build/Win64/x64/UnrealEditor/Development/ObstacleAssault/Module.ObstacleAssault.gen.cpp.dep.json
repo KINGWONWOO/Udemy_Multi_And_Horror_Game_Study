@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\downloads\\obstacleassault-master\\obstacleassault-master\\obstacleassault\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\obstacleassault\\module.obstacleassault.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\downloads\\obstacleassault-master\\obstacleassault-master\\obstacleassault\\intermediate\\build\\win64\\x64\\obstacleassaulteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\downloads\\obstacleassault-master\\obstacleassault-master\\obstacleassault\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\obstacleassault\\definitions.obstacleassault.h",
+            "e:\\downloads\\obstacleassault-master\\obstacleassault-master\\obstacleassault\\intermediate\\build\\win64\\unrealeditor\\inc\\obstacleassault\\uht\\movingplatform.gen.cpp",
+            "e:\\downloads\\obstacleassault-master\\obstacleassault-master\\obstacleassault\\source\\obstacleassault\\movingplatform.h",
+            "e:\\downloads\\obstacleassault-master\\obstacleassault-master\\obstacleassault\\intermediate\\build\\win64\\unrealeditor\\inc\\obstacleassault\\uht\\movingplatform.generated.h",
+            "e:\\downloads\\obstacleassault-master\\obstacleassault-master\\obstacleassault\\intermediate\\build\\win64\\unrealeditor\\inc\\obstacleassault\\uht\\obstacleassault.init.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

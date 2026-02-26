@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\downloads\\simpleshooter-master\\simpleshooter-master\\source\\simpleshooter\\simpleshooter.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\downloads\\simpleshooter-master\\simpleshooter-master\\intermediate\\build\\win64\\x64\\simpleshootereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\downloads\\simpleshooter-master\\simpleshooter-master\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\simpleshooter\\definitions.simpleshooter.h",
+            "e:\\downloads\\simpleshooter-master\\simpleshooter-master\\source\\simpleshooter\\simpleshooter.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

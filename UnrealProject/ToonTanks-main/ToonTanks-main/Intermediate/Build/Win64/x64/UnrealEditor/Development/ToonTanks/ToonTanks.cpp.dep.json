@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\downloads\\toontanks-main\\toontanks-main\\source\\toontanks\\toontanks.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\downloads\\toontanks-main\\toontanks-main\\intermediate\\build\\win64\\x64\\toontankseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\downloads\\toontanks-main\\toontanks-main\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\toontanks\\definitions.toontanks.h",
+            "e:\\downloads\\toontanks-main\\toontanks-main\\source\\toontanks\\toontanks.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

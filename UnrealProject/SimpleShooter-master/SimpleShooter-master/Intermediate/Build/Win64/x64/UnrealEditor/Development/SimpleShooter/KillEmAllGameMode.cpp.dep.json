@@ -1,0 +1,37 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\downloads\\simpleshooter-master\\simpleshooter-master\\source\\simpleshooter\\killemallgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\downloads\\simpleshooter-master\\simpleshooter-master\\intermediate\\build\\win64\\x64\\simpleshootereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\downloads\\simpleshooter-master\\simpleshooter-master\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\simpleshooter\\definitions.simpleshooter.h",
+            "e:\\downloads\\simpleshooter-master\\simpleshooter-master\\source\\simpleshooter\\killemallgamemode.h",
+            "e:\\downloads\\simpleshooter-master\\simpleshooter-master\\source\\simpleshooter\\simpleshootergamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "e:\\downloads\\simpleshooter-master\\simpleshooter-master\\intermediate\\build\\win64\\unrealeditor\\inc\\simpleshooter\\uht\\simpleshootergamemodebase.generated.h",
+            "e:\\downloads\\simpleshooter-master\\simpleshooter-master\\intermediate\\build\\win64\\unrealeditor\\inc\\simpleshooter\\uht\\killemallgamemode.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\public\\engineutils.h",
+            "e:\\downloads\\simpleshooter-master\\simpleshooter-master\\source\\simpleshooter\\shooteraicontroller.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\aicontroller.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\aitypes.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\navigationsystem\\public\\navigationsystemtypes.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\ai\\navigation\\navagentselector.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\navagentselector.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aitypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\perception\\aiperceptionlistenerinterface.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aiperceptionlistenerinterface.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\genericteamagentinterface.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\genericteamagentinterface.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\public\\visuallogger\\visualloggerdebugsnapshotinterface.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\visualloggerdebugsnapshotinterface.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aicontroller.generated.h",
+            "e:\\downloads\\simpleshooter-master\\simpleshooter-master\\intermediate\\build\\win64\\unrealeditor\\inc\\simpleshooter\\uht\\shooteraicontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

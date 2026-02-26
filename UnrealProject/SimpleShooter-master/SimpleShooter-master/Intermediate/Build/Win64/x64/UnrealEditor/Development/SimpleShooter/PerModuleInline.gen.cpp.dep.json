@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\downloads\\simpleshooter-master\\simpleshooter-master\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\simpleshooter\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\downloads\\simpleshooter-master\\simpleshooter-master\\intermediate\\build\\win64\\x64\\simpleshootereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\downloads\\simpleshooter-master\\simpleshooter-master\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\simpleshooter\\definitions.simpleshooter.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

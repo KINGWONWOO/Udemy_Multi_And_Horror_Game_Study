@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ObstacleAssault.gen.cpp.obj": [
+			"MovingPlatform.gen.cpp.obj",
+			"ObstacleAssault.init.gen.cpp.obj"
+		]
+	}
+}

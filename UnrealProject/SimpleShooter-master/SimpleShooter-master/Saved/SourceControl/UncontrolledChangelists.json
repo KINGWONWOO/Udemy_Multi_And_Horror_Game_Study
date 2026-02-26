@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Downloads/SimpleShooter-master/SimpleShooter-master/Content/Sandbox_BuiltData.uasset",
+				"E:/Downloads/SimpleShooter-master/SimpleShooter-master/Content/Sandbox.umap",
+				"E:/Downloads/SimpleShooter-master/SimpleShooter-master/Content/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Textures/T_DefaultLight_S.uasset",
+				"E:/Downloads/SimpleShooter-master/SimpleShooter-master/Content/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Textures/T_Metal_Brushed_N.uasset",
+				"E:/Downloads/SimpleShooter-master/SimpleShooter-master/Content/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Textures/T_Metal_Brushed_N.uasset",
+				"E:/Downloads/SimpleShooter-master/SimpleShooter-master/Content/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Textures/T_Metal_Brushed_N.uasset",
+				"E:/Downloads/SimpleShooter-master/SimpleShooter-master/Content/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_ML.uasset",
+				"E:/Downloads/SimpleShooter-master/SimpleShooter-master/Content/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_diff.uasset",
+				"E:/Downloads/SimpleShooter-master/SimpleShooter-master/Content/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Textures/T_Trims_A_normals.uasset"
+			]
+		}
+	]
+}

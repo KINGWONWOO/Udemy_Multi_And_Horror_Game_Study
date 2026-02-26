@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Downloads\\SimpleShooter-master\\SimpleShooter-master\\Source\\SimpleShooter\\SimpleShooter.Build.cs",
+		"E:\\Downloads\\SimpleShooter-master\\SimpleShooter-master\\Source\\SimpleShooter.Target.cs",
+		"E:\\Downloads\\SimpleShooter-master\\SimpleShooter-master\\Source\\SimpleShooterEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
